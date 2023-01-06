@@ -1,6 +1,6 @@
 ## Vmess+websocket+TLS+Nginx+Website
 ```
-wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/josephfugata/V2Ray_ws-tls_bash_onekey/master/install.sh" && chmod +x install.sh && bash install.sh
+wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/josephfugata/V2ray-ws-tls/main/install.sh" && chmod +x install.sh && bash install.sh
 ```
  
 
